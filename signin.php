@@ -11,9 +11,9 @@
 		
 		<input type="text" name="username" placeholder="Email or phone number">
 		<br>
-		<input type="text" name="password" placeholder="Password">
+		<input type="password" name="password" placeholder="Password">
 		<br>
-		<input style="background-color: magenta;" type="submit" name="submit" value="Sign In">
+		<input id="btn" type="submit" name="submit" value="Sign In">
 		<br>	
 		<a href="./fpass.php">Forgot password</a>
 

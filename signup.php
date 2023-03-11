@@ -10,7 +10,9 @@
 		
 		<input type="text" name="fullname" placeholder="Your name">
 		<br>
-		<input type="text" name="username" placeholder="Username or phone number">
+		<input type="text" name="username" placeholder="Username">
+		<br>
+		<input type="text" name="usercontact" placeholder="Email or phone number">
 		<br>
 		<input type="password" name="password" placeholder="New password">
 		<br>

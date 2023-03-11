@@ -4,12 +4,12 @@
 	 	echo $_POST['username'];
 	 	echo "<br>";
 	 	echo $_POST['password'];
-	 	$host = "localhost";
-	 	$username = "username";
-	 	$password = "password";
-	 	$dbname = "dbname";
-	 	$db_conn = mysqli_connect($host, $username, $password, $dbname);
-	 	echo db_conn;
+	 	// $host = "localhost";
+	 	// $username = "username";
+	 	//$password = "password";
+	 	//$dbname = "dbname";
+	 	//$db_conn = mysqli_connect($host, $username, $password, $dbname);
+	 	//echo db_conn;
 	}
 	else{
 		header("Location: ./signin.php");
